@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607053812455",
+    "project_id": "debitor-6a020",
+    "storage_bucket": "debitor-6a020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607053812455:android:7514b5bcd9a9ed241c0842",
+        "android_client_info": {
+          "package_name": "com.example.debitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO1Athin8gjGcZs4_Ay_8_m63wXx2vRxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
